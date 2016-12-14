@@ -1,0 +1,43 @@
+/*
+Postwidget
+*/
+
+.postwidget {
+  float: right;
+  width: 250px;
+  /*margin-left: -200px;*/
+  position:absolute;
+  top: 93px;
+  right:190px;
+  border-left: solid 1px #d9d9d9;
+  border-right: solid 1px #d9d9d9;
+
+  @include media-query($on-laptop) {
+    display: none;
+  }
+}
+
+.postwidget h3.widget-title{
+  padding: 0 10px;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.postwidget .post-list {
+    padding: 0 10px 0 20px;
+    margin-left: 0;
+    list-style: none;
+    text-align: left;
+
+    > li {
+        margin-bottom: 10px;
+    }
+}
+
+.postwidget .post-list li {
+    margin-bottom: 10px;
+}
+
+.postwidget a.post-link {
+  font-size: 0.9em;
+}

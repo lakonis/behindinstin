@@ -1,0 +1,14 @@
+
+
+<div class="postwidget">
+  <h3 class="widget-title">Derniers articles</h3>
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{% include date-fr.html date=post.date %}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+</div>
