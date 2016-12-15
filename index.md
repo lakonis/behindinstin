@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Behind Instin
 ---
 
 <div style="padding: 50px 30px 30px 30px; background-color:beige; margin-bottom:30px">
