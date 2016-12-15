@@ -19,6 +19,12 @@ La seconde partie présente l'oeuvre collective Général Instin et ce qu'elle r
 
 ### Apologie de la dispersion
 
+<iframe src="{{ site.github.url }}/img/LCO6000FinalSlides/"  style="width:100%;height:30vw;border:none;"></iframe>
+
+<a class="btn btn-default btn-sm" href="{{ site.github.url }}/img/LCO6000FinalSlides/" title="Intervention colloque MIAu">
+<i class="fa fa-eye"></i> Ouvrir les slides
+</a>
+
 
 ### Le collectif « GI », ou l’« Instin » de survie de la communauté littéraire à l’ère du numérique
 
