@@ -21,12 +21,20 @@ La seconde partie présente l'oeuvre collective Général Instin et ce qu'elle r
 
 <iframe src="http://nicolassauret.net/img/LCO6000FinalSlides/"  style="width:100%;height:30vw;border:none;"></iframe>
 
-<a class="btn btn-default btn-sm" href="http://nicolassauret.net/img/LCO6000FinalSlides/" title="Intervention colloque MIAu">
+<a class="btn btn-default btn-sm" href="http://nicolassauret.net/img/LCO6000FinalSlides/" title="Intervention «Apologie de la dispersion»">
 <i class="fa fa-eye"></i> Ouvrir les slides
 </a>
 
 
 ### Le collectif « GI », ou l’« Instin » de survie de la communauté littéraire à l’ère du numérique
+
+<object data="{{ site.github.url }}/img/slidesInstin-dec2016.pdf" type="application/pdf" style="width:100%;height:30vw;border:none;">
+  <p>Ouvrir les slides : <a href="{{ site.github.url }}/img/slidesInstin-dec2016.pdf">slidesInstin-dec2016.pdf</a></p>
+</object>
+
+<a class="btn btn-default btn-sm" href="{{ site.github.url }}/img/slidesInstin-dec2016.pdf" title="Intervention «Le collectif GI ou l'Instin de survie de la communauté littéraire à l'ère du numérique»">
+<i class="fa fa-eye"></i> Ouvrir les slides
+</a>
 
 
 [colloque]:https://zonesdedispersion.wordpress.com/
