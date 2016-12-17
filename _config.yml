@@ -10,7 +10,7 @@ title: Behind Instin
 email: nnicolaoss@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   On-going research about the «brouhaha literature» phenomena General Instin
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/behindinstin" # the subpath of your site, e.g. /blog
 url: "http://lakonis.github.io/behindinstin/" # the base hostname & protocol for your site
 twitter_username: nicolasauret
 github_username:  lakonis
