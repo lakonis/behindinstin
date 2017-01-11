@@ -19,9 +19,9 @@ La seconde partie présente l'oeuvre collective Général Instin et ce qu'elle r
 
 ### Apologie de la dispersion
 
-<iframe src="http://nicolassauret.net/img/LCO6000FinalSlides/"  style="width:100%;height:30vw;border:none;"></iframe>
+<iframe src="http://nicolassauret.net/LCO6000/"  style="width:100%;height:30vw;border:none;"></iframe>
 
-<a class="btn btn-default btn-sm" href="http://nicolassauret.net/img/LCO6000FinalSlides/" title="Intervention «Apologie de la dispersion»">
+<a class="btn btn-default btn-sm" href="http://nicolassauret.net/LCO6000/" title="Intervention «Apologie de la dispersion»">
 <i class="fa fa-eye"></i> Ouvrir les slides
 </a>
 
