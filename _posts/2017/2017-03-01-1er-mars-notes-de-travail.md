@@ -14,51 +14,51 @@ Les métadonnées s'organisent pour le moment ainsi :
 Pour chaque entrée :
 
 ~~~~~
- * **Objet** : recense les données propres au document ou à l'objet collecté
-    * titre
-    * auteur(s) identifié-e(s)
-    * url ressource (qui identifie l'objet sur le web)
-    * url référence (en cas d'objet orphelin ou "déporté", le lien qui nous a guidé vers l'objet)
-    * date de création (dans le cas où la rédaction/production de l'objet/évenement est spécifié)
-    * date de publication (dans le cas où la ressource/objet a une date de publication)
-  * **Indexation** : décrit l'objet selon notre propre taxonomie (en construction)
-    * mots-clés
-    * description
-    * corpus : Instin, documentation,
-    * date d'archive
-    * genre: écrit, article, poème, haiku,
-    * matérialité : print, numérique, wall, performance, conférence
-    * liens à d'autres entrées
-    * propagation
+* **Objet** : recense les données propres au document ou à l'objet collecté
+  * titre
+  * auteur(s) identifié-e(s)
+  * url ressource (qui identifie l'objet sur le web)
+  * url référence (en cas d'objet orphelin ou "déporté", le lien qui nous a guidé vers l'objet)
+  * date de création (dans le cas où la rédaction/production de l'objet/évenement est spécifié)
+  * date de publication (dans le cas où la ressource/objet a une date de publication)
+* **Indexation** : décrit l'objet selon notre propre taxonomie (en construction)
+  * mots-clés
+  * description
+  * corpus : Instin, documentation,
+  * date d'archive
+  * genre: écrit, article, poème, haiku,
+  * matérialité : print, numérique, wall, performance, conférence
+  * liens à d'autres entrées
+  * propagation
 ~~~~~
 
 A titre d'exemple :
 
 ~~~~~
-* item-016
-	 * **Objet**
-	    * titre: l’Électroencéphallusgramme
-	    * auteur: Delphine Bretesché
-  	  * url ressource: http://remue.net/spip.php?article3108
-	    * geolocalisation:
-      * url référence:
-      * date de création:
-	    * date de publication: 2009-03-03
-	 * **Indexation**
-		 * corpus : primaire. Rubrique rubrique RemueNet/dossiers/écrivains/Général Instin/les noms/
-     * description: Performance Électroencéphallusgramme du Général Instin, encre, bâton, rotring et scotch sur rouleau de papier. Contient du matériel visuel + un texte
-     * mots-clés:
-		 * date d'archive: 2017-02-12 (servanne)
-		 * genre:
-		 * matérialité: numérique
-		 * site d'origine: remue.net
-	   * liens:
-		      * http://remue.net/spip.php?article2813 [item-021]
-		      * http://delphinebretesche.hautetfort.com **étrange ce truc**
-		      * http://remue.net/spip.php?article2843#phase [item-020]
-		      * http://remue.net/spip.php?article1502#charte [item-019]
-		      * http://remue.net/spip.php?article2156#spasme [item-017]
-		 * propagation:
+item-016
+* **Objet**
+  * titre: l’Électroencéphallusgramme
+  * auteur: Delphine Bretesché
+  * url ressource: http://remue.net/spip.php?article3108
+  * geolocalisation:
+  * url référence:
+  * date de création:
+  * date de publication: 2009-03-03
+* **Indexation**
+  * corpus : primaire. Rubrique rubrique RemueNet/dossiers/écrivains/Général Instin/les noms/
+  * description: Performance Électroencéphallusgramme du Général Instin, encre, bâton, rotring et scotch sur rouleau de papier. Contient du matériel visuel + un texte
+  * mots-clés:
+  * date d'archive: 2017-02-12 (servanne)
+  * genre:
+  * matérialité: numérique
+  * site d'origine: remue.net
+  * liens:
+    * http://remue.net/spip.php?article2813 [item-021]
+    * http://delphinebretesche.hautetfort.com **étrange ce truc**
+    * http://remue.net/spip.php?article2843#phase [item-020]
+    * http://remue.net/spip.php?article1502#charte [item-019]
+    * http://remue.net/spip.php?article2156#spasme [item-017]
+  * propagation:
 ~~~~~
 
 Pour ce corpus test d'une dizaine d'entrées, la collecte s'est fait par propagation hypertextuelle. A partir d'un premier article, nous avons simplement identifié les liens auxquels l'article fait référence (Remue.net présente un maillage interne particulièrement dense), et nous avons considéré ces nouveaux liens (interne à Remue.net) comme les prochaines entrées de notre corpus test. Nous aurions pu prendre une méthode d'échantillonage plus classique : par date, par auteur, par rubrique, mais cet échantillonage a le mérite d'explorer la base de Remue.net de manière relativement aléatoire, bien que par définition dans un sens anté-chronologique.
