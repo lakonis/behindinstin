@@ -13,7 +13,8 @@ Les métadonnées s'organisent pour le moment ainsi :
 
 Pour chaque entrée :
 
-` * **Objet** : recense les données propres au document ou à l'objet collecté
+~~~~~
+ * **Objet** : recense les données propres au document ou à l'objet collecté
     * titre
     * auteur(s) identifié-e(s)
     * url ressource (qui identifie l'objet sur le web)
@@ -29,11 +30,12 @@ Pour chaque entrée :
     * matérialité : print, numérique, wall, performance, conférence
     * liens à d'autres entrées
     * propagation
-`
+~~~~~
 
 A titre d'exemple :
 
-` * item-016
+~~~~~
+* item-016
 	 * **Objet**
 	    * titre: l’Électroencéphallusgramme
 	    * auteur: Delphine Bretesché
@@ -57,7 +59,8 @@ A titre d'exemple :
 		      * http://remue.net/spip.php?article1502#charte [item-019]
 		      * http://remue.net/spip.php?article2156#spasme [item-017]
 		 * propagation:
-`
+~~~~~
+
 Pour ce corpus test d'une dizaine d'entrées, la collecte s'est fait par propagation hypertextuelle. A partir d'un premier article, nous avons simplement identifié les liens auxquels l'article fait référence (Remue.net présente un maillage interne particulièrement dense), et nous avons considéré ces nouveaux liens (interne à Remue.net) comme les prochaines entrées de notre corpus test. Nous aurions pu prendre une méthode d'échantillonage plus classique : par date, par auteur, par rubrique, mais cet échantillonage a le mérite d'explorer la base de Remue.net de manière relativement aléatoire, bien que par définition dans un sens anté-chronologique.
 
 Très rapidement, ce corpus test s'est enrichi d'une trentaine d'entrées.
@@ -124,11 +127,11 @@ Pour entrer sereinement dans la deuxième étape de collecte, celle de l'exhaust
       * publié chez Le Nouvel Attila - collection Othello (comme Climax)
     * de octobre 2016 au 1er mars 2017
 
-## CLIMAX
+### www.generalinstin.net
 
 (à venir)
 
-## AUTRES
+### Autres
 
 Notamment sur facebook, on trouve une catégorie de photo INSTIN "non-officiel", manifestations sur les murs (tags, graffs, etc.) du phénomène GI, avec la campagne "officielle" menée avec l'artiste SP38, et une campagne d'affichage "non officielle" _"à l'insu du général"_, réalisée grâce à une série de contributions anonymes.
 
