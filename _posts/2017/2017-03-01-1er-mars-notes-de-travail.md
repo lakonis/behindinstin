@@ -5,8 +5,6 @@ date: '2017-03-01 13:40'
 tags: 'corpus, TEI, indexation,'
 ---
 
-<!-- category: méthodologie -->
-
 > Le Général Instin bouge encore. Notre session de travail coïncide avec sa toute dernière publication sur Remue.net : [Nig le chien [1 & 2]](http://remue.net/spip.php?article8721) dans la récente rubrique [Spoon River](http://remue.net/spip.php?rubrique997).
 
 Un mois que l'on s'emploie à collecter notre corpus Instin. Ne sachant pas encore trop dans quelle direction le tirer, nous l'avons initié avec un corpus test en aspirant une dizaine d'articles de Remue.net. Pour chacun de ces articles, nous avons maintenu un inventaire en l'enrichissant d'un certain nombre de métadonnées.
