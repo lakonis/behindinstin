@@ -33,6 +33,12 @@ p, ul {
   text-align: center;
 }
 
+
+pre code {
+  white-space:pre;
+}
+
+
 /* Tableau Methologie - voir slides Reveal.js */
 
 table{width: 100%; margin-bottom: 3rem;}
