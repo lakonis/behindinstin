@@ -2,13 +2,34 @@
 h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
     color: #cc3300;
+    font-family: "Droid Sans", sans-serif;
 }
 
 p, ul {
   text-align: justify;
 }
 
+.post-title {
+    font-size: 36px;
+    letter-spacing: -1px;
+    line-height: 1.2;
+}
 
+.post-content h2 {
+    margin-top: 4rem;
+}
+
+
+.forhead {
+  padding: 50px 30px 30px 30px;
+  background-color:antiquewhite;
+  margin-bottom:30px
+}
+
+.forhead > p {
+  font-size: 1.5em;
+  font-weight: 200;
+}
 
 .footnotes {
   font-size: small;

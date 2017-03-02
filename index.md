@@ -3,12 +3,12 @@ layout: default
 title: Behind Instin
 ---
 
-<div style="padding: 50px 30px 30px 30px; background-color:beige; margin-bottom:30px">
-  <p style="font-size:1.5em; font-weight:200"> Bienvenue sur le carnet de recherche <em>{{ site.title }}</em></p>
+<div class="forhead">
+  <p> Bienvenue sur le carnet de recherche <em>{{ site.title }}</em></p>
   <a class="btn btn-default btn-sm" href="{{ site.github.url }}/about" title="About">
     <i class="fa fa-arrow-right"></i> De quoi s'agit-il ?
   </a>
-<hr/>
+
 <!-- <h3 style="margin-top:20px">Dernières communications</h3>
   <ul class="fa-ul">
     <li><i class="fa-li fa fa-arrow-right"></i>au colloque <a href="http://www.iscc.cnrs.fr/spip.php?article2078" target="_blank" title="Colloque MIAu"><em>Médiations informatisées de l’autorité : nouvelles écritures, nouvelles pratiques de la reconnaissance ?</em></a><br>les 17 et 18 mars 2016 à l'ISCC (Paris)&nbsp;

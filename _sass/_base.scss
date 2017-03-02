@@ -94,13 +94,19 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
+    // &:visited {
+    //     color: darken($brand-color, 15%);
+    // }
+    &:focus {
         color: darken($brand-color, 15%);
+        // color: $text-color;
+        text-decoration: none;
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: darken($brand-color, 15%);
+        // color: $text-color;
+        // text-decoration: underline;
     }
 }
 
