@@ -16,7 +16,10 @@ Ce petit exercice a plusieurs atouts :
 Ce dernier point n'est pas anodin car il marque une première étape à partir de laquelle nous allons (enfin) pouvoir itérer notre problématique, nos objectifs, l'archive et sa modélisation, et finalement procéder à de nouvelles requêtes sur l'archive. La fouille de données consiste toujours en une démarche itérative, mettant en dialogue des hypothèses (requêtes) et un corpus (résultats).
 
 ## Chronologie GI sur Remue.net
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Xn7o0mun9Z9qYM-g2XGyT-37uvrAHRqtw2KX3rvCzgM&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='1'></iframe>
+
+**Échantillon** : toutes les entrées de remue.net dont la date de publication a été renseignée
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Xn7o0mun9Z9qYM-g2XGyT-37uvrAHRqtw2KX3rvCzgM&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0.5'></iframe>
 
 ## Workflow
 
