@@ -3,17 +3,7 @@ layout: post
 title: Questions de recherche
 date: '2017-04-11 15:06'
 ---
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [Qu'est ce que la littérature aujourd'hui? (question intermédiale)](#quest-ce-que-la-littrature-aujourdhui-question-intermdiale)
-		- [Méthodologie](#mthodologie)
-	- [Pourquoi le général Instin ? (question littéraire et métaphysique...)](#pourquoi-le-gnral-instin-question-littraire-et-mtaphysique)
-		- [Méthodologie](#mthodologie)
-	- [Comment agit l'environnement-dispositif ? (question communication)](#comment-agit-lenvironnement-dispositif-question-communication)
-		- [Méthodologie](#mthodologie)
-	- [Trois volets comme trois angles d'une même question](#trois-volets-comme-trois-angles-dune-mme-question)
-
-<!-- /TOC -->
 Au terme de trois mois de travail - principalement occupés par la constitution d'un échantillon de corpus suffisamment riche pour réaliser nos premières visualisations - nous commençons à nous familiariser avec le Général. Nous comprenons un peu mieux le projet qui anime la communauté GI - et notre propre recherche peut du coup se préciser.
 
 En particulier, nous sommes parvenus à formuler plus clairement nos principales problématiques et à définir une première stratégie pour tenter de les résoudre.
