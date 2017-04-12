@@ -3,7 +3,17 @@ layout: post
 title: Questions de recherche
 date: '2017-04-11 15:06'
 ---
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+	- [Qu'est ce que la littérature aujourd'hui? (question intermédiale)](#quest-ce-que-la-littrature-aujourdhui-question-intermdiale)
+		- [Méthodologie](#mthodologie)
+	- [Pourquoi le général Instin ? (question littéraire et métaphysique...)](#pourquoi-le-gnral-instin-question-littraire-et-mtaphysique)
+		- [Méthodologie](#mthodologie)
+	- [Comment agit l'environnement-dispositif ? (question communication)](#comment-agit-lenvironnement-dispositif-question-communication)
+		- [Méthodologie](#mthodologie)
+	- [Trois volets comme trois angles d'une même question](#trois-volets-comme-trois-angles-dune-mme-question)
+
+<!-- /TOC -->
 Au terme de trois mois de travail - principalement occupés par la constitution d'un échantillon de corpus suffisamment riche pour réaliser nos premières visualisations - nous commençons à nous familiariser avec le Général. Nous comprenons un peu mieux le projet qui anime la communauté GI - et notre propre recherche peut du coup se préciser.
 
 En particulier, nous sommes parvenus à formuler plus clairement nos principales problématiques et à définir une première stratégie pour tenter de les résoudre.
@@ -20,9 +30,10 @@ Deux objectifs de travail se dessinent dans l'immédiat :
 
   Cette identité graphique, peut-elle être mise en lien avec une métaphore littéraire à l’œuvre ? En d'autres termes, est-il possible d'établir une relation de continuité entre un pattern textuel et un pattern visuel (ou inversement) ? Démontrer l'existence de cette écriture intermédiale - par laquelle l'image génère le récit qui, en retour, réécrit l'image - nous permettrait de comprendre comment se construit le GI et comment se fédère la communauté GI (alimentant par ce biais notre réflexion sur ce qu'est l'écriture contributive). Invoquer l'intermédialité semble particulièrement pertinent pour un objet comme Instin, qui ne semble exister qu'entre ses manifestations. Ces manifestations que nous tentons d'archiver consistent finalement en des intersections d'idées, d'acteurs, d'initiatives, dont Instin se pose en vecteur davantage qu'en œuvre. Il y a là tous les ingrédients d'un objet intermédial, qui ne se laisse appréhender qu'en faisant un pas de côté, un déplacement ontologique consistant à considérer les formes d'existence à partir des relations. Instin de ce point de vue se joue à l'_inter_, tant entre les médias utilisés, comme ce dialogue entre texte, visuel et parole, et bien sûr entre ses contributions ou manifestations.
 
-[^lectures]: liens vers des performances.
+[^lectures]: voir par exemple [Instin cherche Objet](http://remue.net/spip.php?article3320) ou [l’Électroencéphallusgramme](http://remue.net/spip.php?article3108).
 
-**Méthodologie**
+### Méthodologie
+
 * recenser les médias
 * les classer : typologie (forme, thématique, rapport au littéraire)
 * identifier des motifs, des récurrences, des évolutions
@@ -35,19 +46,18 @@ Ensuite, à quoi nous renvoie la figure historique d'Hinstin - général totalem
 
 ![Capture sur le profil Facebook du GI](http://i.imgur.com/g0tznWi.png)
 
-**Méthodologie**
+### Méthodologie
+
 * explorer les champs sémantiques : comparer les textes (topic map), voir l'évolution dans le temps des thématiques investies par les contributeurs,
 * comprendre comment le Général s'est transformé en objet littéraire, et comment il s'est disséminé (notre Timeline répond en partie à cet objectif).
 
 
 ## Comment agit l'environnement-dispositif ? (question communication)
-L'absence supposée de dispositif dans Instin permet justement de poser, en creux, la question du dispositif. De même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif ouvert à toute forme d'appropriation et de réécriture du Général. Pourtant, assez vite, on se rend compte que non, finalement même Instin n'y échappe pas au(x) dispositif(s), même si un méta-discours perpétue l'idée de l'ouverture et de l'objet insaisissable[^Texte de Chatelier présentant Instin]. Car, nos premiers pas dans la constitution de l'archive GI met à jour des lieux de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif. Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours semblent relativement identifiables, et dont la fonction peut être qualifiée de dispositive. Il n'y a certes pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont autant d'écritures dites _dispositives_. Une réflexion encore à l'état d'hypothèse, qu'il faut maintenant poursuivre, et qui viendra sans doute éclairer et nourrir [celle sur l'intermédialité], et d'une existence aux interstices.
+L'absence supposée de dispositif dans Instin permet justement de poser, en creux, la question du dispositif. De même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif ouvert à toute forme d'appropriation et de réécriture du Général. Pourtant, assez vite, on se rend compte que non, finalement même Instin n'y échappe pas au(x) dispositif(s), même si un méta-discours perpétue l'idée de l'ouverture et de l'objet insaisissable. Car, nos premiers pas dans la constitution de l'archive GI met à jour des lieux de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif. Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours semblent relativement identifiables, et dont la fonction peut être qualifiée de dispositive. Il n'y a certes pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont autant d'écritures dites _dispositives_. Une réflexion encore à l'état d'hypothèse, qu'il faut maintenant poursuivre, et qui viendra sans doute éclairer et nourrir [celle sur l'intermédialité], et d'une existence aux interstices.
 
-[^Texte de Chatelier présentant Instin]: référence et citation
+[celle sur l'intermédialité]: #quest-ce-que-la-littrature-aujourdhui-question-intermdiale
 
-[celle sur l'intermédialité]: lien interne vers partie 1.
-
-**Méthodologie**
+### Méthodologie
 
 * produire une.des cartographie.s des manifestations et des acteurs pour en identifier les nœuds et leur centralité : identifier les dynamiques d'autorité à l’œuvre pour éclairer la nature de l'environnement et les modalités qui en découle (et dont découlent les dynamiques d'autorité, simples projections de l'environnement dispositif),
 * caractériser et théoriser cet environnement, "ce qui fait tenir l'archipel". Il s'agit de le mettre en regard de "dispositifs d'écriture" bien identifiés, le définir en creux par rapport aux objets connus,
