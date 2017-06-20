@@ -8,12 +8,27 @@ Notre projet n'en est qu'à ses prémisses. Votre contribution et vos suggestion
 
 Plusieurs canaux pour rentrer dans l'engrenage Instin :
 
-1. annotez les pages du carnet (pour démarrer, surligner simplement un passage de texte)
-2. contribuez sur le pad ci-dessous
-3. twittez sur [#instinstudies](https://twitter.com/search?f=tweets&q=%23instinstudies&src=typd)
-4. hackez notre carnet sur [Github/behindinstin](https://github.com/lakonis/behindinstin)
+1. annotez les pages du carnet (pour démarrer, surligner simplement un passage de texte),
+2. contribuez sur le pad ci-dessous,
+3. twittez sur [#instinstudies](https://twitter.com/search?f=tweets&q=%23instinstudies&src=typd),
+4. hackez notre carnet sur [Github/behindinstin](https://github.com/lakonis/behindinstin).
+
+
+## Pad [...]atif
 
 <iframe name="embed_readwrite" src="https://annuel2.framapad.org/p/InstinStudies_Cerisy2017?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" style="width:100%;height:50vw;border:none;"></iframe>
+
+---
+
 <a class="btn btn-default btn-sm" href="https://annuel2.framapad.org/p/InstinStudies_Cerisy2017" title="Contribute to #Instin Studies">
 <i class="fa fa-pencil"></i> Ouvrir le pad
+</a>
+
+## Glissades
+<iframe src="https://ecrituresnumeriques.github.io/sInstinCerisy/#/"  style="width:100%;height:30vw;border:none;"></iframe>
+
+---
+
+<a class="btn btn-default btn-sm" href="https://ecrituresnumeriques.github.io/sInstinCerisy/#/" title="Éditorialisation et littérature - le cas du Général Instin»">
+<i class="fa fa-eye"></i> Ouvrir les slides
 </a>
